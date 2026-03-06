@@ -1,4 +1,4 @@
-# Face Recognition (Webcam) — OpenCV LBPH
+# Face Recognition (Webcam) 
 
 A minimal, reliable face-recognition project using your laptop camera.
 It uses OpenCV's **LBPH** face recognizer and Haar Cascades for detection (works offline).
